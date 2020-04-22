@@ -6,11 +6,13 @@
 
 For COVID-19, age is a major risk factor for severe illness and death. Older adults are at higher risk for severe illness as a result of the novel coronavirus [1](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/groups-at-higher-risk.html). Additionally, children are significantly less likely to experience severe outcomes as a result of the virus[2](https://www.cdc.gov/mmwr/volumes/69/wr/mm6914e4.htm).Case fatalities are also largely dependent on external facotrs like access to proper medical care. In the wake of a global pandemic, hospitals struggle to meet the demand for beds for patients. 
 
-This means that the counties most at risk as COVID-19 spreads across the US are ones with a higher percentage of older adults and a lower percentage of children with not enough beds to meet infection rate.
+This means that the counties most at risk as COVID-19 spreads across the US are ones with a higher percentage of older adults and a lower percentage of children with not enough beds to meet infection rate. 
+
+In the chart below, the counties most at risk fall in the top left quadrant with a dark purple marker color.
+
+![Age discrepancy and Hospitals per 100](https://github.com/CamilaCamacho/covid-19-crisis-management-analysis/blob/master/Percentage%20of%20Population%20Under%2018%20and%20Over%2060%20in%20US%20Counties.png)
 
 
-* your analysis (images of data visualizations). At least one additional visualization that is saved as a .png and embedded in the README with supporting text explaining why this visualization contributes to the analysis (answering the question prompts in the tutorial)
+The correlation table heatmap below shows the relationship between two factors. Factors sharing a yellow cell are much more likely to either increase or decrease together. Factors sharing a purple cell are likely to increase when the other decreases and vice versa.    
 
-
-* insights to inform a business answer (some of this is outlined in the tutorial or GitHub repository, but you’re expected to elaborate on this based on the visualizations that you create and other factors that you’d like to highlight).
-* 3-6 sentences that interpret the data analysis conducted in the tutorial. Do they answer the questions prompted in the tutorial or provide additional insights that contribute to the data analysis or real-world applications? 
+![COVID County Correlation Heatmap](https://github.com/CamilaCamacho/covid-19-crisis-management-analysis/blob/master/COVID19%20County%20Correlation%20Table%20Heatmap.png)
